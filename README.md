@@ -1,0 +1,2 @@
+# dailyfres
+My Django Project
